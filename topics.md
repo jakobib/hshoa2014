@@ -34,6 +34,10 @@ Warum Open Access? Warum Repositories?
 
 ## Historischer und politischer Hintergrund
 
+* Wissenschaftliches Publikationssystem allgemein
+    * Review-Verfahren
+    * ...
+
 * Geschichte 
     * Sputnik-Schock, Weinberg-Report, IuD-Programm, FI-Programm... (bis Anfang 1990er)
     * Web-Schock (1995-...)
