@@ -32,6 +32,9 @@ Warum Open Access? Warum Repositories?
 * Digitalisierung allgemein
 * ...
 
+* Link rot
+    * e.g. <http://reagle.org/joseph/pelican/praxis/archiving-sources.html>
+
 ## Historischer und politischer Hintergrund
 
 * Wissenschaftliches Publikationssystem allgemein
@@ -102,5 +105,25 @@ how to aggregate (meta)data
 * VCS
 * ...
 
-## ...
+## Was sind Dokumente
 
+..
+
+## Was sind Daten?
+
+* SQL, Closed World <-> NoSQL, RDF
+
+* NoSQL: schemaless (optional schema)
+* RDF: schemaless (optional schema) + OWA + URIs
+  easy merging from data
+* Show with JSON-LD
+
+## OA
+
+"Articles published in #OA journals have increased in @webofscience from <2% in
+2000 to >11% in 2013 pic.twitter.com/1I6N7HuZk6"
+
+## Data publishing
+
+"interested in data publishing? list of data journals http://goo.gl/RGD4mj  &
+registry of repositories http://re3data.org  #APE2014"
