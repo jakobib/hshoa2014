@@ -41,7 +41,7 @@ etc. should be added.*
 * [Search User Interfaces](http://searchuserinterfaces.com/book/)
   (2009 free book by Marti A. Hearst)
 
-## Related lists
+## Related lists and collections
 
 [Free Programming Books](http://resrc.io/list/10/list-of-free-programming-books/)
 (also hosted [in a git repository](https://github.com/vhf/free-programming-books)
@@ -50,4 +50,45 @@ contains several free books, some of them cover topics related to LIS
 
 Several resources exist to find Online Courses (MOOC, etc.) but no course in
 library science so far (?).
+
+### Not analysed yet
+
+* Wikiversity
+* Wikibooks
+* <http://l3t.eu/oer/> (German OER books, CC-NC-SA)
+* ...
+
+## About reusable OER classes in general
+
+### Syllabi
+
+* In [2010 David Weinberger proposed](https://davidweinberger.sys-con.com/node/1503012)
+  to create a standard for sharing syllabi. Wikipedia describes a syllabus as
+  "an outline and summary of topics to be covered in an education or training
+  course", but the use and structure of syllabi differs among cultures. Same
+  applies to software such as BlackBoard, Moodle, Sakai etc. A nice quote 
+  [from](http://cyber.law.harvard.edu/syllixml/?title=Questions&diff=prev&oldid=30)
+  the (oprhaned) project page
+
+  > Hey there, I love your project and I am really happy to contribute to it. I am
+  > Italian, and I have to say that I had some hard time just understanding the
+  > concept of syllabi. In Italy we certainly have a list of books recommended or
+  > required, but how the program develops along the semester is often a mystery.
+  > Is the database going to be flexible enough to consider different models of
+  > education? 
+
+* The [Open Syllabus Project](http://opensyllabusproject.org/) (OSP) is a more
+  recent, promising project to collect syllabi. It's most important decision
+  seems to be using natural language processing to extract structured data from
+  existing syllabi instead of trying to enforce a standard format (but software
+  contains implicit data assumptions as well).
+
+### OER as building blocks
+
+* The [Connexions Library](http://cnx.org/) groups OER content in " *modules*,
+  which are like small 'knowledge chunks,' and *collections*, which are groups
+  of modules structured into books or course notes, or for other uses. All
+  content is licensed under CC-BY.
+
+* ...
 
