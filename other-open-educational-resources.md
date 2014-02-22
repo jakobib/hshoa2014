@@ -29,6 +29,7 @@ etc. should be added.*
   * <https://github.com/OxyComp155>
   * <https://github.com/WUSTL-GIS-Programming-spring-2014>
   * <https://github.com/kpq/nyu-data-journalism-2014> (Data Journalism)
+  * <https://github.com/shancarter/ucb-dataviz-fall-2013/> (Data Visualization)
   * ...
 
 * [School of Data Handbook](http://schoolofdata.org/handbook/)
@@ -39,6 +40,10 @@ etc. should be added.*
   (2011 CC-SA by EJC & OKFN).
   updated translations available in Russian, Spanish, French, Georgian and
   Portuguese Portugese (2013)
+
+* [Open Data Handbook](http://opendatahandbook.org/)
+  (CC-BY 2011-2014 OKFN). Many translations available.
+  [sources at GitHub](https://github.com/okfn/opendatahandbook)
 
 * [Introduction to Information Retrieval](http://informationretrieval.org/)
   (2009 free textbook)
