@@ -16,6 +16,21 @@ etc. should be added.*
 * [Joseph Reagle's New Media Culture Class](https://github.com/reagle/New-Media-Culture)
   (2011, CC-NC-SA)
 
+* Several classes at GitHub, but only computer science so far (?). A quick
+  search for "syllabus" in GitHub resulted in many accounts and repositories,
+  such as:
+  * <https://github.com/afeld/advanced_js>
+  * <https://github.com/MiamiOH-CSE274>
+  * <https://github.com/elizabrock/NSS-Syllabus-Fall-2012>
+  * <https://github.com/UA-CS493>
+  * <https://github.com/TCNJ-IMM-130-02>
+  * <https://github.com/TCNJ-IMM-130-03>
+  * <https://github.com/vc-dig1108-fall-2013>
+  * <https://github.com/OxyComp155>
+  * <https://github.com/WUSTL-GIS-Programming-spring-2014>
+  * <https://github.com/kpq/nyu-data-journalism-2014> (Data Journalism)
+  * ...
+
 * [School of Data Handbook](http://schoolofdata.org/handbook/)
   (2013-2014 CC-SA by OKFN). 
   [sources at GitHub](https://github.com/okfn/datawrangling)
